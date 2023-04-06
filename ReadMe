@@ -1,1 +1,3 @@
-A collection of some simple games I made
+This is the code for the Microcontroller part of a Automatic Watering system for a garden
+
+The Microcontroller is the STM32 Nucleo 64 L152RE
