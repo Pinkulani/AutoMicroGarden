@@ -1,3 +1,15 @@
-This is the code for the Microcontroller part of a Automatic Watering system for a garden
+This is the code for the Microcontroller part of a Automatic Watering system for a garden!
 
-The Microcontroller is the STM32 Nucleo 64 L152RE
+The Microcontroller used:
+STM32 Nucleo 64 L152RE **for testing**
+AZDelivery D1 R32 **for finishing**
+
+IDE used:
+Arduino IDE 2.1.0
+
+Microcontroller should be interchangable the only thing that might be a problem is getting the PINs right.
+And installing and using the Arduino IDE for compiling might bring some problems.
+Both boards need their respective Libraries installed.
+
+
+NOTE: The Project would only compile on macOS and Windows after tinkering with settings (IDE uses deprecated Python 2) and changing the upload speed to 115200
