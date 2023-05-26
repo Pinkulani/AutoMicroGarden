@@ -1,8 +1,8 @@
 This is the code for the Microcontroller part of a Automatic Watering system for a garden!
 
 The Microcontroller used:
-STM32 Nucleo 64 L152RE **for testing**
-AZDelivery D1 R32 **for finishing**
+- STM32 Nucleo 64 L152RE for testing/learning
+- AZDelivery D1 R32 for finishing the Project
 
 IDE used:
 Arduino IDE 2.1.0
